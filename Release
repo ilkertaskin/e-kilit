@@ -1,5 +1,13 @@
-Archive: stable
-Component: main
+Origin: e-kilit
+Label: e-Kilit
+Suite: stable
+Codename: stable
 Architecture: all
-Label: e-Kilit Repository
-Description: Süleyman Demirel Ortaokulu - e-Kilit uygulama deposu
+Components: ./
+Description: Suleyman Demirel Ortaokulu e-Kilit deposu
+MD5Sum:
+ 1e8d7d3c589fc9dbd645c84e9c8cc6fe 494 Packages
+ 90547563a96bbfec5a4b659d591f8e14 396 Packages.gz
+SHA256:
+ 3f6bc9058ba3bcb2c9f4cd53b1b8a961eab485e275146c876313ffd9fd0dae7e 494 Packages
+ dc5103ff49976df92215a1ffc933021a73ffb580795ba5c20a75edaeaf490b24 396 Packages.gz
