@@ -1,0 +1,16 @@
+Package: e-kilit
+Version: 5.0.0
+Architecture: all
+Maintainer: İlker Taşkın <ilker@pardus-etap.local>
+Installed-Size: 700
+Filename: ./e-kilit_5.0.0_all.deb
+Size: 593740
+MD5sum: 3108b522ab21e84b91867a349a664407
+SHA1: 50f1bc70acade9d20db3e84f38e10ce87614eb5a
+SHA256: c38d2bac49729276593f400e8d02b3ea7af0c483a2e9b7208dd4232564144bc7
+Section: education
+Priority: optional
+Description: e-Kilit - QR kod ile ekran kilidi
+ Sadece python3-tk gerektirir. Diger bagimlilik yok.
+ Log: /tmp/e-kilit.log
+
