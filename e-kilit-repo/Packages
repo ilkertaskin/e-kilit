@@ -4,10 +4,10 @@ Architecture: all
 Maintainer: İlker Taşkın <ilker@pardus-etap.local>
 Installed-Size: 700
 Filename: ./e-kilit_5.0.0_all.deb
-Size: 593938
-MD5sum: 6a9e1b59a33369f9b782774ee29227e7
-SHA1: 469b107005b67d8073fad6acc6332e2b376c66de
-SHA256: 8a3785376a46e1b7c1130b0d9dde959ea80b2889efac162bcab638082b2cfe15
+Size: 593740
+MD5sum: 3108b522ab21e84b91867a349a664407
+SHA1: 50f1bc70acade9d20db3e84f38e10ce87614eb5a
+SHA256: c38d2bac49729276593f400e8d02b3ea7af0c483a2e9b7208dd4232564144bc7
 Section: education
 Priority: optional
 Description: e-Kilit - QR kod ile ekran kilidi
